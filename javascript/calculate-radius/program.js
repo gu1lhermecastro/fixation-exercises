@@ -12,4 +12,3 @@ leitor.question("Informe o valor do raio: ", function(answer){
   console.log("A área é: " + area);
   leitor.close();
 })
-
