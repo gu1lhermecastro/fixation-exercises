@@ -1,6 +1,7 @@
 const readline = require('readline');
 let raio = "";
 
+
 const leitor = readline.createInterface({
   input: process.stdin,
   output: process.stdout
